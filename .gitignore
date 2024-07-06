@@ -1,0 +1,7 @@
+"venv_sentiment/" 
+"*.pyc"
+*.pyc 
+__pycache__/
+data/ 
+"*.pbix" 
+venv_sentiment/
